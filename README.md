@@ -5,7 +5,7 @@
 - 🌟 **Experience**: Worked on projects like **Banking Analytics** and **CRM**.
 - 📊 **Data Entry**: Skilled in managing large datasets with accuracy and efficiency.
 - 🕷️ **Web Scraping**: Engaged in projects that involve extracting and analyzing data from various web sources.
-- 🔗 **Networking**: Over **1k connections** on LinkedIn.
+- 🔗 **Networking**: Over **500+ connections** on LinkedIn.
 - 💖 **Passion for Development**: Coding is not just a job; it's a lifelong journey! Explore my work in my [portfolio](https://your-portfolio-link).
 
 ---
